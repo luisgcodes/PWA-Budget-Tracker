@@ -17,6 +17,7 @@ This is a Budget Tracker Application where you can be in charge of your money in
 
 ## Deployment
 
+### Deployed on [Heroku!](https://infinite-thicket-22296.herokuapp.com/) 
 ## License
 
 MIT License
