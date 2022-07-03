@@ -1,6 +1,6 @@
 let db;
 const request = indexedDB.open('budget', 1);
-// name of database is budget
+// Database name: budget
 
 request.onupgradeneeded = function(event) {
   const db = event.target.result;
